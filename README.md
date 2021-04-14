@@ -14,6 +14,8 @@ This project is a Tower Defense game, following specific rules:
 
 • If the castle reaches 0 hit points, the player loses.
 
+Install the library to launch the program with: "sudo apt-get install libcsfml-dev libcsfml-doc"
+
 To launch the game, use "./my_defender n"
 
 n = name of the map file
