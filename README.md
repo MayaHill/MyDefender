@@ -1,5 +1,9 @@
 # TowerDefense (7-21st March)
 
+<img src="https://i.postimg.cc/v8PYKhVG/defender-howtoplay.png" alt="alt text">
+
+<img src="https://i.postimg.cc/nrwnQVJX/defender-gameplay.png" alt="alt text">
+
 This project is a Tower Defense game, following specific rules:
 
 • The player is a builder who must defend his castle,
@@ -14,10 +18,30 @@ This project is a Tower Defense game, following specific rules:
 
 • If the castle reaches 0 hit points, the player loses.
 
-Install the library to launch the program with: "sudo apt-get install libcsfml-dev libcsfml-doc"
+### Linux Installer
 
-To launch the game, use "./my_defender n"
+Clone the repository:
 
-n = name of the map file
+    git clone https://github.com/MayaHill/TowerDefense-7-21-March.git
 
-(Example: "./my_defender maps/map1.txt")
+Install CSFML
+
+    sudo apt-get install libcsfml-dev libcsfml-doc
+
+To compile:
+
+    make
+
+Update:
+
+    git pull && make re
+
+## How to play
+
+    ./my_defender -h
+
+## Launch the game
+
+    ./my_defender [map]
+    
+    (Example: "./my_defender maps/map1.txt")
