@@ -1,4 +1,4 @@
-# TowerDefense (7-21st March)
+# TowerDefense
 
 <img src="https://i.postimg.cc/v8PYKhVG/defender-howtoplay.png" alt="alt text">
 
