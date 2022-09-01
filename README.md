@@ -22,7 +22,7 @@ This project is a Tower Defense game, following specific rules:
 
 Clone the repository:
 
-    git clone https://github.com/MayaHill/TowerDefense-7-21-March.git
+    git clone https://github.com/MayaHill/TowerDefense.git
 
 Install CSFML
 
