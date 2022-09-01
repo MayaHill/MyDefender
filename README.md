@@ -1,4 +1,4 @@
-# TowerDefense
+# My Defender
 
 <img src="https://i.postimg.cc/v8PYKhVG/defender-howtoplay.png" alt="alt text">
 
@@ -22,7 +22,7 @@ This project is a Tower Defense game, following specific rules:
 
 Clone the repository:
 
-    git clone https://github.com/MayaHill/TowerDefense.git
+    git clone https://github.com/MayaHill/MyDefender.git
 
 Install CSFML
 
